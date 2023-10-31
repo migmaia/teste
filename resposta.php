@@ -6,6 +6,6 @@
   if ($resposta == "sim") {
     header("Location: pagina-sim.php");
   } else {
-    header("Location: pagina-nao.php");
+    header("Location: pagina-nao.html");
   }
 ?>
